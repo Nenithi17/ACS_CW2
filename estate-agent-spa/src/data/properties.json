@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "type": "house",
+    "price": 450000,
+    "bedrooms": 4,
+    "dateAdded": "2024-01-15",
+    "postcode": "SW1A 1AA",
+    "shortDescription": "Stunning Victorian family home with period features",
+    "longDescription": "This magnificent Victorian family home offers an exceptional opportunity to acquire a beautifully presented property in a prime location. The property boasts original period features including high ceilings, ornate cornicing, and elegant sash windows. The ground floor features a welcoming entrance hall, spacious reception room with bay window, modern fitted kitchen with integrated appliances, and a separate dining room. The first floor comprises three well-proportioned bedrooms and a family bathroom, while the second floor offers a master bedroom with en-suite shower room. Externally, there is a private rear garden and off-street parking. This property is perfect for families seeking character and modern convenience.",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+      "https://images.unsplash.com/photo-1568605117035-4c0b0e0b0b0b?w=800",
+      "https://images.unsplash.com/photo-1568605117035-4c0b0e0b0b0c?w=800",
+      "https://images.unsplash.com/photo-1568605117035-4c0b0e0b0b0d?w=800",
+      "https://images.unsplash.com/photo-1568605117035-4c0b0e0b0b0e?w=800",
+      "https://images.unsplash.com/photo-1568605117035-4c0b0e0b0b0f?w=800",
+      "https://images.unsplash.com/photo-1568605117035-4c0b0e0b0b10?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800",
+    "latitude": 51.4994,
+    "longitude": -0.1245
+  },
+  {
+    "id": 2,
+    "type": "flat",
+    "price": 275000,
+    "bedrooms": 2,
+    "dateAdded": "2024-02-20",
+    "postcode": "NW1 6XE",
+    "shortDescription": "Modern two-bedroom apartment in vibrant Camden",
+    "longDescription": "This contemporary two-bedroom apartment is located in the heart of Camden, offering excellent transport links and a vibrant local community. The property features an open-plan living area with modern kitchen, two double bedrooms, and a stylish bathroom. The apartment benefits from large windows providing plenty of natural light, modern fixtures and fittings throughout, and a secure entry system. The building also offers a shared roof terrace with stunning views across London. Perfect for young professionals or couples looking for a modern home in a central location with excellent amenities on the doorstep.",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0268?w=800",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0269?w=800",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b026a?w=800",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b026b?w=800",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b026c?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800",
+    "latitude": 51.5396,
+    "longitude": -0.1430
+  },
+  {
+    "id": 3,
+    "type": "house",
+    "price": 625000,
+    "bedrooms": 5,
+    "dateAdded": "2024-03-10",
+    "postcode": "W11 3BQ",
+    "shortDescription": "Elegant five-bedroom townhouse in Notting Hill",
+    "longDescription": "An impressive five-bedroom townhouse situated in the desirable Notting Hill area. This stunning property spans four floors and offers exceptional living space for a large family. The ground floor features a grand entrance hall, double reception room with period fireplace, and a modern kitchen/breakfast room with bi-fold doors opening to the garden. The lower ground floor provides additional living space with a family room, utility room, and guest WC. The first and second floors accommodate five bedrooms, including a master suite with walk-in wardrobe and luxury en-suite bathroom. The property also benefits from a private rear garden, off-street parking, and is within walking distance of Portobello Road Market and excellent schools.",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0d?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0e?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0f?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a10?w=800",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a11?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800",
+    "latitude": 51.5155,
+    "longitude": -0.1980
+  },
+  {
+    "id": 4,
+    "type": "flat",
+    "price": 195000,
+    "bedrooms": 1,
+    "dateAdded": "2024-01-05",
+    "postcode": "E1 6AN",
+    "shortDescription": "Stylish one-bedroom flat in trendy Shoreditch",
+    "longDescription": "A beautifully presented one-bedroom flat located in the vibrant Shoreditch area. This modern apartment features an open-plan living space with contemporary kitchen, a spacious double bedroom, and a well-appointed bathroom. The property benefits from high ceilings, large windows, and modern finishes throughout. The building offers secure entry, lift access, and is within walking distance of Shoreditch High Street, Brick Lane, and numerous cafes, restaurants, and bars. Ideal for first-time buyers or investors looking for a property in one of London's most sought-after areas.",
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93689?w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d9368a?w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d9368b?w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d9368c?w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d9368d?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800",
+    "latitude": 51.5236,
+    "longitude": -0.0795
+  },
+  {
+    "id": 5,
+    "type": "house",
+    "price": 380000,
+    "bedrooms": 3,
+    "dateAdded": "2024-02-28",
+    "postcode": "SE1 9RT",
+    "shortDescription": "Charming three-bedroom terraced house near the Thames",
+    "longDescription": "This delightful three-bedroom terraced house is located in a quiet residential street just minutes from the River Thames. The property has been well-maintained and features a welcoming entrance hall, spacious living room with feature fireplace, separate dining room, and a modern kitchen with access to the rear garden. Upstairs, there are three good-sized bedrooms and a family bathroom. The property benefits from a private rear garden, original period features, and is within walking distance of Borough Market, London Bridge, and excellent transport links. This is an ideal family home in a fantastic location.",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118d?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118e?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118f?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c251190?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c251191?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c251192?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800",
+    "latitude": 51.5045,
+    "longitude": -0.0865
+  },
+  {
+    "id": 6,
+    "type": "flat",
+    "price": 320000,
+    "bedrooms": 2,
+    "dateAdded": "2024-03-25",
+    "postcode": "N1 9GU",
+    "shortDescription": "Bright two-bedroom apartment in Islington",
+    "longDescription": "A beautifully designed two-bedroom apartment located in a modern development in Islington. This property features a bright and spacious open-plan living area with modern kitchen, two double bedrooms, and a contemporary bathroom. The apartment benefits from floor-to-ceiling windows, underfloor heating, and high-quality finishes throughout. The building offers concierge service, secure parking, and a residents' gym. The property is ideally located for Upper Street's shops, restaurants, and bars, and provides excellent transport links via Angel and Highbury & Islington stations. Perfect for professionals seeking a modern lifestyle in a prime location.",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c4?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c5?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c6?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c7?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c8?w=800",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c9?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800",
+    "latitude": 51.5364,
+    "longitude": -0.1030
+  },
+  {
+    "id": 7,
+    "type": "house",
+    "price": 550000,
+    "bedrooms": 4,
+    "dateAdded": "2024-04-01",
+    "postcode": "SW3 4RB",
+    "shortDescription": "Luxurious four-bedroom family home in Chelsea",
+    "longDescription": "An exceptional four-bedroom family home situated in the prestigious Chelsea area. This stunning property has been recently refurbished to an exceptionally high standard and offers luxurious accommodation throughout. The ground floor features a grand entrance hall, elegant reception room with period features, modern open-plan kitchen/dining room with bi-fold doors to the garden, and a guest cloakroom. The first floor comprises three well-proportioned bedrooms and a family bathroom, while the second floor offers a magnificent master suite with dressing area and luxury en-suite bathroom. The property also benefits from a beautifully landscaped rear garden, off-street parking, and is within walking distance of King's Road, excellent schools, and transport links.",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=800",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39199?w=800",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c3919a?w=800",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c3919b?w=800",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c3919c?w=800",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c3919d?w=800",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c3919e?w=800",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c3919f?w=800"
+    ],
+    "floorPlan": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800",
+    "latitude": 51.4925,
+    "longitude": -0.1670
+  }
+]
+

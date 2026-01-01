@@ -1,0 +1,71 @@
+/* App-specific styles */
+/* Main layout styles are in index.css */
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.app-subtitle {
+  margin: 0.5rem 0 0 0;
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.app-content {
+  flex: 1;
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 1600px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.app-main {
+  flex: 1;
+  min-width: 0; /* Prevents flex item from overflowing */
+}
+
+.app-sidebar {
+  width: 350px;
+  flex-shrink: 0;
+}
+
+/* Responsive layout for smaller screens */
+@media (max-width: 1023px) {
+  .app-content {
+    flex-direction: column;
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .app-sidebar {
+    width: 100%;
+    order: -1; /* Show favourites panel first on mobile */
+  }
+
+  .app-header {
+    padding: 1.5rem 1rem;
+  }
+
+  .app-header h1 {
+    font-size: 2rem;
+  }
+}
